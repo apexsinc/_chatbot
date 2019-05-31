@@ -3,9 +3,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-bots/
-_includes/
-_layouts/
-assets/bots/
-_sass/
-_config.yml
+#may hide this
+#_includes/
+#_layouts/
+#assets/bots/
+#_sass/
+#_config.yml
