@@ -3,7 +3,7 @@ var botui = BotUI('about-index');
 var guestname = 'Guest';
 
 botui.message
-	.bot('Hi, 👋 I\'m Jaymar, a bot by Apexvalue!')
+	.bot('Hi, 👋 I\'m Chatbot, a bot by Apexvalue!')
 	.then( function(){
   		return botui.message.bot({ // 
     		delay: 500, 
